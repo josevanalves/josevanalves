@@ -11,7 +11,7 @@
   <br>
   <br>
   conecte-se comigo:
-         <a hrf="www.linkedin.com/in/josevan-alves target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a> 
+         <a href="www.linkedin.com/in/josevan-alves target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a> 
 <br>
 <br>
 
