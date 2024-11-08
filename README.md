@@ -12,7 +12,7 @@
   <br>
   conecte-se comigo:
   <br>
-         <a href="www.linkedin.com/in/josevan-alves" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/></a> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"> <a href="www.linkedin.com/in/josevan-alves" target="blank"</a> 
 <br>
 <br>
 
